@@ -1,0 +1,12 @@
+[submodule "cpp-engine/vendor/binfuse"]
+	path = cpp-engine/vendor/binfuse
+	url = https://github.com/oschonrock/binfuse.git
+[submodule "cpp-engine/vendor/fastfilter_cpp"]
+	path = cpp-engine/vendor/fastfilter_cpp
+	url = https://github.com/FastFilter/fastfilter_cpp.git
+[submodule "cpp-engine/vendor/concurrentqueue"]
+	path = cpp-engine/vendor/concurrentqueue
+	url = https://github.com/cameron314/concurrentqueue.git
+[submodule "vendor/xxhash"]
+	path = vendor/xxhash
+	url = https://github.com/Cyan4973/xxHash.git
