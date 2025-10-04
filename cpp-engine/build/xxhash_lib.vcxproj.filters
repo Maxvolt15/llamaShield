@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\maxvo\OneDrive\Desktop\Hackathon\llamaShield\cpp-engine\vendor\xxhash\xxhash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\maxvo\OneDrive\Desktop\Hackathon\llamaShield\cpp-engine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6655B00F-0DF6-3790-9DB3-DC386EF663FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

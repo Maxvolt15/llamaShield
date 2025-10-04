@@ -1,0 +1,10 @@
+^C:\USERS\MAXVO\ONEDRIVE\DESKTOP\HACKATHON\LLAMASHIELD\CPP-ENGINE\BUILD\CMAKEFILES\758BC5FE2F05C1191E9C47951707CD33\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/maxvo/OneDrive/Desktop/Hackathon/llamaShield/cpp-engine -BC:/Users/maxvo/OneDrive/Desktop/Hackathon/llamaShield/cpp-engine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/maxvo/OneDrive/Desktop/Hackathon/llamaShield/cpp-engine/build/llamaShieldEngine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

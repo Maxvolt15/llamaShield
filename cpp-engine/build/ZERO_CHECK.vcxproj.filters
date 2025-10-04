@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\maxvo\OneDrive\Desktop\Hackathon\llamaShield\cpp-engine\build\CMakeFiles\758bc5fe2f05c1191e9c47951707cd33\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9F8B8776-1265-3D60-8DCD-E19327E6A2B9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
