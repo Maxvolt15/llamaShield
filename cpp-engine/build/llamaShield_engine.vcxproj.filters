@@ -4,12 +4,6 @@
     <ClCompile Include="C:\Users\maxvo\OneDrive\Desktop\Hackathon\llamaShield\cpp-engine\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\maxvo\OneDrive\Desktop\Hackathon\llamaShield\cpp-engine\src\BinaryFuseWrapper.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\maxvo\OneDrive\Desktop\Hackathon\llamaShield\cpp-engine\src\numa_optimized_filter.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\maxvo\OneDrive\Desktop\Hackathon\llamaShield\cpp-engine\CMakeLists.txt" />

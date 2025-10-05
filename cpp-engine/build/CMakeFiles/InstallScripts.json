@@ -1,7 +1,8 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/maxvo/OneDrive/Desktop/Hackathon/llamaShield/cpp-engine/build/cmake_install.cmake"
+		"C:/Users/maxvo/OneDrive/Desktop/Hackathon/llamaShield/cpp-engine/build/cmake_install.cmake",
+		"C:/Users/maxvo/OneDrive/Desktop/Hackathon/llamaShield/cpp-engine/build/vendor/pybind11/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
